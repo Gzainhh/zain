@@ -1,0 +1,45 @@
+#EXTINF:-1 group-title="zain1", BEIN SPORT 1
+#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch1/adaptive.m3u8
+
+#EXTINF:-1 group-title="zain1", BEIN SPORT 2
+#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch2/adaptive.m3u8
+
+#EXTINF:-1 group-title="zain1", BEIN SPORT 3
+#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch3/adaptive.m3u8
+
+#EXTINF:-1 group-title="zain1", BEIN SPORT 4
+#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch4/adaptive.m3u8
+
+#EXTINF:-1 group-title="zain1", BEIN SPORT 5
+#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch5/adaptive.m3u8
+
+#EXTINF:-1 group-title="zain1", BEIN SPORT 6
+#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch6/adaptive.m3u8
+
+#EXTINF:-1 group-title="zain1", BEIN SPORT 7
+#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch7/adaptive.m3u8
+
+#EXTINF:-1 group-title="zain1", BEIN SPORT 8
+#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch8/adaptive.m3u8
+
+#EXTINF:-1 group-title="zain1", BEIN SPORT 9
+#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch9/adaptive.m3u8
+
